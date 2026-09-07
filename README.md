@@ -17,3 +17,5 @@ Arcade is a Python library that provides a great next step for those who have le
 | 12 | arcede_sample12.py | Change background　|
 | 13 | arcede_sample13.py | Release balls in concentric circles　|
 | 14 | arcede_sample14.py | The sprite avoids the enemy sprite by jumping　|
+| 15 | arcede_sample15.py | Shooting games　|
+| 16 | arcede_sample16.py | Horizontal scroll sample　|
